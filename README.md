@@ -16,4 +16,4 @@ It is a mobile news application that I coded with **react-native**, which allows
 ### Image at the end of the screen
 <img src="https://raw.githubusercontent.com/bbogum19/NewsApp/master/readme_images/screen_in_the_end.png" alt="screen_in_the_end" width="150" height="300">
 
-*<div align="end"> - Author: [Berkay Emre BOĞUM](https://www.linkedin.com/in/berkay-emre-bo%C4%9Fum-058782240/) </div>*
+*<div align="end"> - Author: [Berkay Emre BOĞUM](https://www.linkedin.com/in/berkayemrebogum/) </div>*
